@@ -1,0 +1,4 @@
+domain,issuer,days_left,status,signature_alg
+internal.corp.ua,Let's Encrypt,11,WARNING,ECDSA-SHA256
+legacy-app.local,Self-Signed,-6,EXPIRED,SHA1withRSA (WEAK)
+api.company.com,DigiCert,242,OK,RSA-SHA256

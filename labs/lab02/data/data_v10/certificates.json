@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "internal.corp.ua",
+    "issuer": "Let's Encrypt",
+    "valid_to": "2026-10-27T00:00:00Z",
+    "signature_algorithm": "ECDSA-SHA256"
+  },
+  {
+    "domain": "legacy-app.local",
+    "issuer": "Self-Signed",
+    "valid_to": "2026-10-10T00:00:00Z",
+    "signature_algorithm": "SHA1withRSA"
+  },
+  {
+    "domain": "api.company.com",
+    "issuer": "DigiCert",
+    "valid_to": "2027-06-15T00:00:00Z",
+    "signature_algorithm": "RSA-SHA256"
+  }
+]

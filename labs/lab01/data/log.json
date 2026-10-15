@@ -1,0 +1,536 @@
+[
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "success",
+        "timestamp": "2026-09-23 16:44:39",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "failure",
+        "timestamp": "2026-09-23 16:44:39",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "success",
+        "timestamp": "2026-09-23 16:44:51",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "failure",
+        "timestamp": "2026-09-23 16:44:51",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "success",
+        "timestamp": "2026-09-24 16:28:27",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "failure",
+        "timestamp": "2026-09-24 16:28:27",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "success",
+        "timestamp": "2026-09-24 18:56:17"
+    },
+    {
+        "event": "login",
+        "user": "mobile_analyst",
+        "result": "success",
+        "timestamp": "2026-09-24 18:56:17"
+    },
+    {
+        "event": "login",
+        "user": "web_developer",
+        "result": "success",
+        "timestamp": "2026-09-24 18:56:17"
+    },
+    {
+        "event": "login",
+        "user": "api_consumer",
+        "result": "success",
+        "timestamp": "2026-09-24 18:56:17"
+    },
+    {
+        "event": "login",
+        "user": "short_user",
+        "result": "failure",
+        "timestamp": "2026-09-24 18:56:17"
+    },
+    {
+        "event": "login",
+        "user": "test_user1",
+        "result": "success",
+        "timestamp": "2026-09-24 18:56:17"
+    },
+    {
+        "event": "login",
+        "user": "test_user2",
+        "result": "success",
+        "timestamp": "2026-09-24 18:56:17"
+    },
+    {
+        "event": "login",
+        "user": "test_user3",
+        "result": "success",
+        "timestamp": "2026-09-24 18:56:17"
+    },
+    {
+        "event": "login",
+        "user": "test_user4",
+        "result": "success",
+        "timestamp": "2026-09-24 18:56:17"
+    },
+    {
+        "event": "login",
+        "user": "test_user5",
+        "result": "success",
+        "timestamp": "2026-09-24 18:56:17"
+    },
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "success",
+        "timestamp": "2026-09-24 18:58:30"
+    },
+    {
+        "event": "login",
+        "user": "mobile_analyst",
+        "result": "success",
+        "timestamp": "2026-09-24 18:58:30"
+    },
+    {
+        "event": "login",
+        "user": "web_developer",
+        "result": "success",
+        "timestamp": "2026-09-24 18:58:30"
+    },
+    {
+        "event": "login",
+        "user": "api_consumer",
+        "result": "success",
+        "timestamp": "2026-09-24 18:58:30"
+    },
+    {
+        "event": "login",
+        "user": "short_user",
+        "result": "failure",
+        "timestamp": "2026-09-24 18:58:31"
+    },
+    {
+        "event": "login",
+        "user": "test_user1",
+        "result": "success",
+        "timestamp": "2026-09-24 18:58:31"
+    },
+    {
+        "event": "login",
+        "user": "test_user2",
+        "result": "success",
+        "timestamp": "2026-09-24 18:58:31"
+    },
+    {
+        "event": "login",
+        "user": "test_user3",
+        "result": "success",
+        "timestamp": "2026-09-24 18:58:31"
+    },
+    {
+        "event": "login",
+        "user": "test_user4",
+        "result": "success",
+        "timestamp": "2026-09-24 18:58:31"
+    },
+    {
+        "event": "login",
+        "user": "test_user5",
+        "result": "success",
+        "timestamp": "2026-09-24 18:58:31"
+    },
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "success",
+        "timestamp": "2026-10-01 16:42:01"
+    },
+    {
+        "event": "login",
+        "user": "mobile_analyst",
+        "result": "success",
+        "timestamp": "2026-10-01 16:42:01"
+    },
+    {
+        "event": "login",
+        "user": "web_developer",
+        "result": "success",
+        "timestamp": "2026-10-01 16:42:01"
+    },
+    {
+        "event": "login",
+        "user": "api_consumer",
+        "result": "success",
+        "timestamp": "2026-10-01 16:42:01"
+    },
+    {
+        "event": "login",
+        "user": "short_user",
+        "result": "failure",
+        "timestamp": "2026-10-01 16:42:01"
+    },
+    {
+        "event": "login",
+        "user": "test_user1",
+        "result": "success",
+        "timestamp": "2026-10-01 16:42:01"
+    },
+    {
+        "event": "login",
+        "user": "test_user2",
+        "result": "success",
+        "timestamp": "2026-10-01 16:42:01"
+    },
+    {
+        "event": "login",
+        "user": "test_user3",
+        "result": "success",
+        "timestamp": "2026-10-01 16:42:01"
+    },
+    {
+        "event": "login",
+        "user": "test_user4",
+        "result": "success",
+        "timestamp": "2026-10-01 16:42:01"
+    },
+    {
+        "event": "login",
+        "user": "test_user5",
+        "result": "success",
+        "timestamp": "2026-10-01 16:42:01"
+    },
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "success",
+        "timestamp": "2026-10-01 16:43:28"
+    },
+    {
+        "event": "login",
+        "user": "mobile_analyst",
+        "result": "success",
+        "timestamp": "2026-10-01 16:43:28"
+    },
+    {
+        "event": "login",
+        "user": "web_developer",
+        "result": "success",
+        "timestamp": "2026-10-01 16:43:28"
+    },
+    {
+        "event": "login",
+        "user": "api_consumer",
+        "result": "success",
+        "timestamp": "2026-10-01 16:43:28"
+    },
+    {
+        "event": "login",
+        "user": "short_user",
+        "result": "failure",
+        "timestamp": "2026-10-01 16:43:28"
+    },
+    {
+        "event": "login",
+        "user": "test_user1",
+        "result": "success",
+        "timestamp": "2026-10-01 16:43:28"
+    },
+    {
+        "event": "login",
+        "user": "test_user2",
+        "result": "success",
+        "timestamp": "2026-10-01 16:43:28"
+    },
+    {
+        "event": "login",
+        "user": "test_user3",
+        "result": "success",
+        "timestamp": "2026-10-01 16:43:28"
+    },
+    {
+        "event": "login",
+        "user": "test_user4",
+        "result": "success",
+        "timestamp": "2026-10-01 16:43:28"
+    },
+    {
+        "event": "login",
+        "user": "test_user5",
+        "result": "success",
+        "timestamp": "2026-10-01 16:43:28"
+    },
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "success",
+        "timestamp": "2026-10-01 16:44:22"
+    },
+    {
+        "event": "login",
+        "user": "mobile_analyst",
+        "result": "success",
+        "timestamp": "2026-10-01 16:44:22"
+    },
+    {
+        "event": "login",
+        "user": "web_developer",
+        "result": "success",
+        "timestamp": "2026-10-01 16:44:22"
+    },
+    {
+        "event": "login",
+        "user": "api_consumer",
+        "result": "success",
+        "timestamp": "2026-10-01 16:44:22"
+    },
+    {
+        "event": "login",
+        "user": "short_user",
+        "result": "failure",
+        "timestamp": "2026-10-01 16:44:22"
+    },
+    {
+        "event": "login",
+        "user": "test_user1",
+        "result": "success",
+        "timestamp": "2026-10-01 16:44:22"
+    },
+    {
+        "event": "login",
+        "user": "test_user2",
+        "result": "success",
+        "timestamp": "2026-10-01 16:44:22"
+    },
+    {
+        "event": "login",
+        "user": "test_user3",
+        "result": "success",
+        "timestamp": "2026-10-01 16:44:22"
+    },
+    {
+        "event": "login",
+        "user": "test_user4",
+        "result": "success",
+        "timestamp": "2026-10-01 16:44:22"
+    },
+    {
+        "event": "login",
+        "user": "test_user5",
+        "result": "success",
+        "timestamp": "2026-10-01 16:44:22"
+    },
+    {
+        "event": "login",
+        "user": "nastia bebe",
+        "result": "failure",
+        "timestamp": "2026-10-01 16:48:03"
+    },
+    {
+        "event": "login",
+        "user": "nastia ",
+        "result": "failure",
+        "timestamp": "2026-10-01 16:50:04"
+    },
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "failure",
+        "timestamp": "2026-10-01 16:51:36"
+    },
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "success",
+        "timestamp": "2026-10-01 16:52:29"
+    },
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "success",
+        "timestamp": "2026-10-01 17:36:02"
+    },
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "failure",
+        "timestamp": "2026-10-01 17:36:02"
+    },
+    {
+        "event": "login",
+        "user": "EMPTY_USER",
+        "result": "failure",
+        "timestamp": "2026-10-01 17:36:03"
+    },
+    {
+        "event": "login",
+        "user": "mobile_analyst",
+        "result": "failure",
+        "timestamp": "2026-10-01 17:36:03"
+    },
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "success",
+        "timestamp": "2026-10-01 17:36:31"
+    },
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "failure",
+        "timestamp": "2026-10-01 17:36:31"
+    },
+    {
+        "event": "login",
+        "user": "EMPTY_USER",
+        "result": "failure",
+        "timestamp": "2026-10-01 17:37:43"
+    },
+    {
+        "event": "login",
+        "user": "EMPTY_USER",
+        "result": "failure",
+        "timestamp": "2026-10-01 17:45:34"
+    },
+    {
+        "event": "login",
+        "user": "<EMPTY>",
+        "result": "failure",
+        "timestamp": "2026-10-01 17:52:13"
+    },
+    {
+        "event": "login",
+        "user": "<EMPTY>",
+        "result": "failure",
+        "timestamp": "2026-10-01 17:54:05"
+    },
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "failure",
+        "timestamp": "2026-10-01 18:30:18"
+    },
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "success",
+        "timestamp": "2026-10-01 18:31:03"
+    },
+    {
+        "event": "login",
+        "user": "<EMPTY>",
+        "result": "failure",
+        "timestamp": "2026-10-02 09:06:11"
+    },
+    {
+        "event": "login",
+        "user": "<EMPTY>",
+        "result": "failure",
+        "timestamp": "2026-10-02 09:06:49"
+    },
+    {
+        "event": "login",
+        "user": "<EMPTY>",
+        "result": "failure",
+        "timestamp": "2026-10-02 09:07:14"
+    },
+    {
+        "event": "login",
+        "user": "<EMPTY>",
+        "result": "failure",
+        "timestamp": "2026-10-02 09:13:23"
+    },
+    {
+        "event": "login",
+        "user": "мппии",
+        "result": "failure",
+        "timestamp": "2026-10-02 09:13:32"
+    },
+    {
+        "event": "login",
+        "user": "мрпатвоприавто",
+        "result": "failure",
+        "timestamp": "2026-10-02 09:13:42"
+    },
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "success",
+        "timestamp": "2026-10-02 09:14:19"
+    },
+    {
+        "event": "login",
+        "user": "iot_specialist",
+        "result": "failure",
+        "timestamp": "2026-10-02 09:14:38"
+    },
+    {
+        "event": "login",
+        "user": "<EMPTY>",
+        "result": "failure",
+        "timestamp": "2026-10-02 09:17:13"
+    },
+    {
+        "event": "login",
+        "user": "<EMPTY>",
+        "result": "failure",
+        "timestamp": "2026-10-02 09:18:50"
+    },
+    {
+        "event": "login",
+        "user": "влви",
+        "result": "failure",
+        "timestamp": "2026-10-02 13:56:56"
+    },
+    {
+        "event": "login",
+        "user": "вмаррокароваоа",
+        "result": "failure",
+        "timestamp": "2026-10-02 13:57:19"
+    },
+    {
+        "event": "login",
+        "user": "<EMPTY>",
+        "result": "failure",
+        "timestamp": "2026-10-02 14:02:33"
+    },
+    {
+        "event": "login",
+        "user": "ruff",
+        "result": "failure",
+        "timestamp": "2026-10-02 14:04:26"
+    },
+    {
+        "event": "login",
+        "user": "вриаорв",
+        "result": "failure",
+        "timestamp": "2026-10-02 11:12:23"
+    }
+]
